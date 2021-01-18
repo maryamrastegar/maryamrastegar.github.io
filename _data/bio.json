@@ -31,19 +31,19 @@
   },
   "interests": [
     {
-      "name": "programming,ux design",
+      "name": "programming",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "UI Design",
+      "name": "UX Design",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "UI Design",
       "keywords": [
       ]
     }
