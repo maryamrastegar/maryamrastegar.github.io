@@ -1,45 +1,37 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Maryam Rastegar moghadam",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "",
+    "phone": "",
+    "website": "https://maryamrastegar.github.io",
+    "summary": "I am studying for a bachelor. in Computer Science in the Department of Information and Computer Sciences at the University of sajad .",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Mashad",
+      "countryCode": "IRAN",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "maryamrastegar",
+        "url": "http://github.com/maryamrastegar"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Maryam Rastegar Moghadam",
+        "url": "https://www.linkedin.com/in/maryam-rastegar-moghadam-215950173"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+     
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "programming,ux design",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -58,7 +50,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
         "C",
@@ -83,10 +75,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of sadjad, Mashhad, Iran",
+      "area": "Computer Science ",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,12 +87,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
