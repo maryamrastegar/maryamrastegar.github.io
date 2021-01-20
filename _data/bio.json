@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Mashad",
+      "city": "Mashhad",
       "countryCode": "IRAN",
       "region": ""
     },
@@ -50,7 +50,7 @@
   ],   
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
         "MacOS",
